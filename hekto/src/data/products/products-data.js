@@ -1,0 +1,185 @@
+import img from "../../assets/img/pradukt-img.png";
+import img2 from "../../assets/img/pradakt-img2.png";
+import img3 from "../../assets/img/pradakt-img3.png";
+
+export const data = [
+  {
+    NewArrivall: [
+      {
+        id: 1,
+        img: img,
+        price: "$42.00",
+        discount: "$65.00",
+        text: "Comfort Handy Craft",
+      },
+      {
+        id: 2,
+        img: img,
+        price: "$42.00",
+        discount: "$65.00",
+        text: "Comfort Handy Craft",
+      },
+      {
+        id: 3,
+        img: img,
+        price: "$42.00",
+        discount: "$65.00",
+        text: "Comfort Handy Craft",
+      },
+      {
+        id: 4,
+        img: img,
+        price: "$42.00",
+        discount: "$65.00",
+        text: "Comfort Handy Craft",
+      },
+      {
+        id: 5,
+        img: img,
+        price: "$42.00",
+        discount: "$65.00",
+        text: "Comfort Handy Craft",
+      },
+      {
+        id: 6,
+        img: img,
+        price: "$42.00",
+        discount: "$65.00",
+        text: "Comfort Handy Craft",
+      },
+    ],
+    BestSeller: [
+      {
+        id: 1,
+        img: img2,
+        price: "$42.00",
+        discount: "$65.00",
+        text: "Comfort Handy Craft",
+      },
+      {
+        id: 2,
+        img: img2,
+        price: "$42.00",
+        discount: "$65.00",
+        text: "Comfort Handy Craft",
+      },
+      {
+        id: 3,
+        img: img2,
+        price: "$42.00",
+        discount: "$65.00",
+        text: "Comfort Handy Craft",
+      },
+      {
+        id: 4,
+        img: img2,
+        price: "$42.00",
+        discount: "$65.00",
+        text: "Comfort Handy Craft",
+      },
+      {
+        id: 5,
+        img: img2,
+        price: "$42.00",
+        discount: "$65.00",
+        text: "Comfort Handy Craft",
+      },
+      {
+        id: 6,
+        img: img2,
+        price: "$42.00",
+        discount: "$65.00",
+        text: "Comfort Handy Craft",
+      },
+    ],
+    Featured: [
+      {
+        id: 1,
+        img: img3,
+        price: "$42.00",
+        discount: "$65.00",
+        text: "Comfort Handy Craft",
+      },
+      {
+        id: 2,
+        img: img3,
+        price: "$42.00",
+        discount: "$65.00",
+        text: "Comfort Handy Craft",
+      },
+      {
+        id: 3,
+        img: img3,
+        price: "$42.00",
+        discount: "$65.00",
+        text: "Comfort Handy Craft",
+      },
+      {
+        id: 4,
+        img: img3,
+        price: "$42.00",
+        discount: "$65.00",
+        text: "Comfort Handy Craft",
+      },
+      {
+        id: 5,
+        img: img,
+        price: "$42.00",
+        discount: "$65.00",
+        text: "Comfort Handy Craft",
+      },
+      {
+        id: 6,
+        img: img,
+        price: "$42.00",
+        discount: "$65.00",
+        text: "Comfort Handy Craft",
+      },
+    ],
+    SpecialOffer: [
+      {
+        id: 1,
+        img: img,
+        price: "$42.00",
+        discount: "$65.00",
+        text: "Comfort Handy Craft",
+      },
+      {
+        id: 2,
+        img: img,
+        price: "$42.00",
+        discount: "$65.00",
+        text: "Comfort Handy Craft",
+      },
+      {
+        id: 3,
+        img: img,
+        price: "$42.00",
+        discount: "$65.00",
+        text: "Comfort Handy Craft",
+      },
+      {
+        id: 4,
+        img: img,
+        price: "$42.00",
+        discount: "$65.00",
+        text: "Comfort Handy Craft",
+      },
+      {
+        id: 5,
+        img: img,
+        price: "$42.00",
+        discount: "$65.00",
+        text: "Comfort Handy Craft",
+      },
+      {
+        id: 6,
+        img: img,
+        price: "$42.00",
+        discount: "$65.00",
+        text: "Comfort Handy Craft",
+      },
+    ],
+  },
+];
+export default data;
